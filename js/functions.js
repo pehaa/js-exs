@@ -1,9 +1,9 @@
 function RectangleLargerSide( width, height ) {
-	/* vérifie si rectangle est carré */
+	/* Le bord plus longue d'un rectangle */
 	return;
 }
 function TriangleLargestSide( a, b, c ) {
-	/* vérifie si rectangle est carré */
+	/* Le bord le plus longue d'un triangle */
 	return;
 }
 function checkIfRectangleIsSquare( width, height ) {
