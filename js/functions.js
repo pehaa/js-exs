@@ -56,7 +56,7 @@ function sumNumbers(array) {
 	return;
 };
 
-function calculateAverage(array) {\
+function calculateAverage(array) {
 	/* calcule la moyenne de tous les éléments dans le tableau */
 	return;
 };
