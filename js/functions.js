@@ -105,15 +105,18 @@ function convertIntegerToBinaryString(integer) {
 
 function convertBinaryToBase10(string) {
 	/* Convertir un string binaire en un nombre entier */
+	/* astuce - pas forcement "from scratch", chercher la function parseInt() */
 	return;
 };
 
 function convertIntegerToHexadecimal(integer) {
 	/* Convertir un nombre entier en hexadecimal (16) */
+	/* astuce - pas forcement "from scratch", chercher la function toString() */
 	return;
 };
 
 function convertHexadecimalToInteger(string) {
 	/* Convertir un string hexadecimal en un nombre entier */
+	/* astuce - pas forcement "from scratch", chercher la function parseInt() */
 	return;
 };
