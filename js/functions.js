@@ -93,22 +93,27 @@ function checkIfMultipleOfSeven(integer) {
 };
 
 function factorial(number) {
-	/* Calcule le */
+	/* Calcule la factorielle, c'est à dire multiplie tous les nombres jusqu'à number, par exemple factorial(5) = 1*2*3*4*5 */
 	return;
 };
 
 function convertIntegerToBinaryString(integer) {
+	/* Convertir un nombre entier en binaire */
+	/* astuce - pas forcement "from scratch", chercher la function toString() */
 	return;
 };
 
 function convertBinaryToBase10(string) {
+	/* Convertir un string binaire en un nombre entier */
 	return;
 };
 
 function convertIntegerToHexadecimal(integer) {
+	/* Convertir un nombre entier en hexadecimal (16) */
 	return;
 };
 
 function convertHexadecimalToInteger(string) {
+	/* Convertir un string hexadecimal en un nombre entier */
 	return;
 };
